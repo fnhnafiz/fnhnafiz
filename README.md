@@ -77,8 +77,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/fnhnafiz/fnhnafiz/output/snake.svg" alt="Snake animation" />
 
 ###
