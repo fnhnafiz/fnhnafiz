@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I am a FrontEnd Developer</h3>
+<h3 align="left">I am a Frontend-Focused MERN Stack Developer</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m a Fresher Frontend Developer 🖥️ with a growing passion for building websites and web applications 🌐. I enjoy turning ideas into reality by creating clean, responsive, and user-friendly designs 🎨.<br><br>💡 My Skills Include:<br><br>Frontend: HTML 📝, CSS 🎨, JavaScript ⚡, React.js ⚛️, and Tailwind CSS 🌈<br>Backend: Node.js 🛠️, Express.js 🌐<br>Database: MongoDB 🗂️<br>Authentication: Firebase Authentication 🔒<br>I focus on writing simple and efficient code ✅ while ensuring websites look great and work smoothly across all devices 📱💻. From creating smooth animations ✨ to building intuitive interfaces, I aim to deliver projects that are both functional and visually appealing.<br><br>In addition to web development, I have experience in digital marketing 🛠️, which includes:<br><br>Facebook Ads 📊: Running campaigns to boost engagement and reach the right audience.<br>YouTube Video SEO 🔍: Optimizing videos to rank higher in search results.<br>Link Building 🔗: Enhancing website authority and improving search engine visibility.<br>By combining my technical skills with marketing expertise, I strive to create impactful solutions that connect with users and deliver results 🌟. I’m always eager to learn 📚, collaborate 🤝, and work on exciting projects that make a difference 🚀.<br>Basic knowledge of backend like Nodejs, Express, MongoDB, and Firesbase auth.<br><br>I focus on writing simple and efficient code while ensuring websites look great and work well across all devices. From creating smooth animations to crafting intuitive interfaces, I aim to deliver projects that leave a positive impression.<br><br>In addition to my development skills, I also have experience in digital marketing, which includes:<br><br>Facebook Ads: Running campaigns to drive engagement and reach the right audience.<br>YouTube Video SEO: Optimizing videos to rank higher in search results.<br>Link Building: Enhancing website authority and visibility online.<br>By combining my technical skills with marketing expertise, I strive to create solutions that are both functional and impactful. I’m always eager to learn, grow, and contribute to exciting projects. Let’s connect and create something amazing!</p>
+<p align="left">I'm a  Fullstack Developer 🖥️ with 10+ real-world projects and a strong focus on building modern web applications 🌐. I love turning ideas into reality by creating clean, responsive, and user-friendly designs 🎨.<br><br>💡 My Skills Include:<br><br>Frontend: HTML 📝, CSS 🎨, JavaScript ⚡, TypeScript 💙, React.js ⚛️, Next.js 🔥, and Tailwind CSS 🌈<br>Backend: Node.js 🛠️, Express.js 🌐<br>Database: MongoDB 🗂️<br>Authentication: Firebase Authentication 🔒, JWT 🔐<br>UI Libraries: Shadcn UI ✨<br><br>I focus on writing clean and efficient code ✅ while ensuring websites look great and work smoothly across all devices 📱💻. From creating smooth animations ✨ to building intuitive interfaces, I aim to deliver projects that are both functional and visually appealing.<br><br>🚀 Featured Projects:<br><br>🏥 MedCamp - Healthcare Volunteer Platform: Connects volunteers with healthcare professionals for organized medical campaigns. Built with React.js, Node.js, Express.js, MongoDB, and Tailwind CSS. <br><br>📝 BlogVista - Dynamic Blog Management App: Full-stack blog application with user authentication, blog creation, commenting, and dynamic content features. Includes JWT & OAuth authentication with real-time updates.<br><br>💼 AnyTech Financial Services Platform: Created scalable financial solutions including AnyCaaS, AnyBaaS, and AnyPaaS for modern financial services, improving system efficiency and customer satisfaction.<br><br>I'm currently pursuing my Bachelor of Education (8th Semester) while continuously building new projects and learning advanced technologies. I'm always eager to learn 📚, collaborate 🤝, and work on exciting projects that make a difference 🚀.<br><br>Let's connect and create something amazing together!</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">States</h2>
+<h2 align="left">GitHub Stats</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="center">I KNOW THIS  TECHNOLOGY</h3>
+<h3 align="center">TECHNOLOGIES I WORK WITH</h3>
 
 ###
 
@@ -40,26 +40,30 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
 
 ###
 
-<p align="center">MY SOCIAL LINKS</p>
+<p align="center">CONNECT WITH ME</p>
 
 ###
 
