@@ -112,7 +112,11 @@ Right now I'm deepening my backend skills, moving beyond MongoDB into relational
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fnhnafiz/fnhnafiz/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fnhnafiz/fnhnafiz/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fnhnafiz/fnhnafiz/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/fnhnafiz/fnhnafiz/output/snake.svg" />
+  </picture>
 </div>
 
 ---
