@@ -93,18 +93,18 @@ Right now I'm deepening my backend skills, moving beyond MongoDB into relational
 ---
 
 ## GitHub Stats
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fnhnafiz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnhnafiz&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fnhnafiz&theme=github_dark" width="100%" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fnhnafiz&hide_border=true&background=0D1117&stroke=30363D&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fnhnafiz&theme=github_dark" alt="Repos per Language" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fnhnafiz&theme=github_dark" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fnhnafiz&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fnhnafiz&theme=github_dark" alt="Stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fnhnafiz&theme=github_dark&utcOffset=6" alt="Productive Time" />
 </div>
 
 ---
